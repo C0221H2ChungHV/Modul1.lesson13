@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bb60ad1-4db1-491d-bfea-6ea0f4aa9604" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex2/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex2/ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex3/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex3/ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex4/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex4/ex4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex5/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex5/ex5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex6/ex6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex6/ex6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex7/ex7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex7/ex7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex8/ex8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_1/ex8/ex8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex1/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex1/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex2/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex2/ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex3/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex3/ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex4/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex4/ex4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex5/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex5/ex5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex6/ex6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/Loof_Statements_2/ex6/ex6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/bang_cuu_chuong/bang_cuu_chuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/bang_cuu_chuong/ls11_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/so_nguyen_to/ls11_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson11/so_nguyen_to/so_nguyen_to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice1/practice1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice1/practice1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice2/practice2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice2/practice2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice3/practice3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice3/practice3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice4/practice4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice4/practice4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice5/practice5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul1.W3.lesson12/practice5/practice5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bài tập/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bài tập/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bài tập/TimeTable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/Bai tap tao danh sach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/Bài tập 1 tạo form đơn giản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/Bài tập Tạo bảng đơn giản1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/Bài tập bàn cờ vua.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/Bài tập tạo lịch tháng.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/Bào tập tạo bảng đơn giản2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/CV cá nhân.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/Tạo form lấy survey khách hàng.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/Tạo giao diện form đăng ký người dùng.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/bài tập 2 tạo biểu mẫu đơn giản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bài tập HTML/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Báo cáo tuần/02.10bmCG - Báo cáo tuần 1 của học viên.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thực Hành/CSS1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thực Hành/Sử dụng input, button và textarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thực Hành/Sử dụng select, option.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thực Hành/Thục hành tạo bảng nâng cao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thực Hành/Thực Hành HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thực Hành/Thực hành Tạo bảng cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thực Hành/Thực hành tạo form cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thực Hành/Thực hành tạo form tìm kiếm trên GG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/Thực hành/Hiển thị đầu ra - Copy (2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/Thực hành/Hiển thị đầu ra - Copy (3).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/Thực hành/Hiển thị đầu ra - Copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/Thực hành/Hiển thị đầu ra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/Thực hành/Thuc hanh khai bao va su dung bien bai 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/Thực hành/Thực hành nhúng Javascrip  - Copy (2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/Thực hành/Thực hành nhúng Javascrip  - Copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/Thực hành/Thực hành nhúng Javascrip .html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/Thực hành/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Hiển thị đầu ra - Copy (2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Hiển thị đầu ra - Copy (3).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Hiển thị đầu ra - Copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Hiển thị đầu ra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Sử dụng toán tử.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Thuc hanh khai bao va su dung bien bai 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Thuc hanh khai bao va su dung bien bài 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Thuc hanh khai bao va su dung bien bài 3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Thực hành nhúng Javascrip  - Copy (2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Thực hành nhúng Javascrip  - Copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/Thực hành nhúng Javascrip .html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson6/Thực hành/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson9/Bài tập/calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson9/Bài tập/game Good_Fast_Cheap/gfc.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../W2/lesson9/Bài tập/game Good_Fast_Cheap/gfc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../W2/lesson9/Bài tập/game_pluzzi/js/my.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../W2/lesson9/Bài tập/game_pluzzi/js/my.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Source/New.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Source/Table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Source/Tạo form cơ bản.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1psHLQ6BHKUDKUhhMJuUZ9wPMpe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bb60ad1-4db1-491d-bfea-6ea0f4aa9604" name="Default Changelist" comment="" />
+      <created>1615964820910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615964820910</updated>
+      <workItem from="1615964822054" duration="2009000" />
+      <workItem from="1615967326934" duration="118000" />
+      <workItem from="1615967542845" duration="2687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
